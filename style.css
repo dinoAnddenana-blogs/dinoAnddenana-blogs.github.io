@@ -41,3 +41,9 @@ font-size: 16px;
 header nav ul li:hover {
   padding-top: 5px;
 }
+
+#home {
+  background: url(img/Boat.jpg) ;
+  background-position: center center;
+  background-image: cover;
+}
