@@ -46,4 +46,10 @@ header nav ul li:hover {
   background: url(img/Boat.jpg) ;
   background-position: center center;
   background-image: cover;
+  background-attachment: fixed;
+}
+
+#home h1 {
+  margin: 240px auto 0 auto;
+
 }
