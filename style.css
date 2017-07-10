@@ -42,14 +42,12 @@ header nav ul li:hover {
   padding-top: 5px;
 }
 
-#home {
-  background: url(img/Boat.jpg) ;
-  background-position: center center;
-  background-image: cover;
-  background-attachment: fixed;
+#home h1 {
+  margin: 250px auto 0 auto;
+  font-size: 110px;
 }
 
-#home h1 {
-  margin: 240px auto 0 auto;
-
+#home h2 {
+  margin: 0 auto 0 auto;
+  font-size: 25px;
 }
