@@ -46,10 +46,13 @@ header nav ul li:hover {
 
 #home h1 {
   margin: 250px auto 0 auto;
-  font-size: 110px;
+  font-size: 100px;
 }
 
 #home h2 {
   margin: 0 auto 0 auto;
   font-size: 25px;
+}
+footer p {
+  font-size: 10px;
 }
